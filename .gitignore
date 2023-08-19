@@ -1,0 +1,4 @@
+# 项目排除路径
+/sangeng-admin/target/
+/sangeng-blog/target/
+/sangeng-framework/target/
